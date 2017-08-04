@@ -1,7 +1,7 @@
 num = int(raw_input(" Enter any number to check even or odd : "))
 
 if num % 2 == 0:
-    print "even number " +str(num)
+    print "even number " + str(num)
 
 else:
-    print "odd number " +str(num)
+    print "odd number " + str(num)

@@ -1,3 +1,4 @@
+from spy_details import  spy_name
 print "Let\'s get started..."
 spy_name = raw_input("What is your name ? :")
 
